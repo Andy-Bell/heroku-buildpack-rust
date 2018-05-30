@@ -2,3 +2,5 @@
 /cache/
 /heroku-rust-cargo-hello/
 /export
+
+.idea/*
